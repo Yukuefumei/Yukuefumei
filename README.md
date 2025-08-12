@@ -2,8 +2,8 @@
 
 💻 **Learner / Amateur**  
 🚀 Passionate about coding, science, and building cool projects  
-🌱 Currently exploring **Python** and **C++** 
-🎯 Major in **Nuclear Science**
+🌱 Currently exploring **Python** and **C++**  
+🎯 Major in **Nuclear Science**  
 
 ---
 
